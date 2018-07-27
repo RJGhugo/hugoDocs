@@ -121,7 +121,7 @@ While adding custom taxonomies, you need to put in the default taxonomies too, _
 [taxonomies]
   tag = "tags"
   category = "categories"
-  series = "series"
+  serie = "series"
 {{</ code-toggle >}}
 
 ### Example: Removing default taxonomies
